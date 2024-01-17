@@ -1,0 +1,32 @@
+.container {
+    margin: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  thead {
+    background-color: #343a40; /* Cor de fundo do cabeçalho */
+    color: white; /* Cor do texto no cabeçalho */
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #dee2e6; /* Cor da borda */
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #f8f9fa; /* Cor de fundo para linhas pares */
+  }
+  
+  /* Adicione mais estilos conforme necessário */
+  
